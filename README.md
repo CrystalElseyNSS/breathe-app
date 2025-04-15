@@ -22,7 +22,7 @@
   </ol>
 </details>
 
-
+[![About][forks-shield]][#about]
 
 <!-- ABOUT THE PROJECT -->
 ## About
@@ -85,3 +85,4 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [ReactNative-url]: https://reactnative.dev/
+[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
