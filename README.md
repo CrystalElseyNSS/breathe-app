@@ -22,7 +22,8 @@
   </ol>
 </details>
 
-[![ABOUT][ButtonImg]][AboutUrl]
+[![ABOUT][]][AboutUrl]
+
 
 <!-- ABOUT THE PROJECT -->
 ## About
