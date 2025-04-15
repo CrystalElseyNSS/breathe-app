@@ -22,7 +22,7 @@
   </ol>
 </details>
 
-[![ABOUT][ButtonImg]][AboutUrl]
+[<img src="https://harderco.com/wp-content/uploads/2016/07/Teal-Rectangle.png" width="25"/>](#about)
 
 
 <!-- ABOUT THE PROJECT -->
