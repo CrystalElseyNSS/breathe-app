@@ -16,10 +16,10 @@
 
 <!-- TABLE OF CONTENTS -->
 
-[About](#about)
-[Tech Stack](#tech-stack)
-[Get Started](#get-started)
-[Take a Breath](#take-a-breath)
+![About](#about)
+![Tech Stack](#tech-stack)
+![Get Started](#get-started)
+![Take a Breath](#take-a-breath)
 
 
 
