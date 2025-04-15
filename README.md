@@ -22,7 +22,7 @@
   </ol>
 </details>
 
-[ABOUT](#about){: .btn}
+[![ABOUT][ButtonImg]][AboutUrl]
 
 <!-- ABOUT THE PROJECT -->
 ## About
@@ -85,4 +85,5 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [ReactNative-url]: https://reactnative.dev/
-[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
+[ButtonImg]: https://miro.medium.com/v2/resize:fit:4262/format:webp/1*chuZPstTXb9euQ_AMXQvjA.png
+[AboutUrl]: #about
