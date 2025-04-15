@@ -22,7 +22,7 @@
   </ol>
 </details>
 
-[![About][forks-shield]][#about]
+[ABOUT](#about){: .btn}
 
 <!-- ABOUT THE PROJECT -->
 ## About
