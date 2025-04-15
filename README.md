@@ -22,7 +22,7 @@
   </ol>
 </details>
 
-[![ABOUT][]][AboutUrl]
+[![ABOUT][React.js]][AboutUrl]
 
 
 <!-- ABOUT THE PROJECT -->
