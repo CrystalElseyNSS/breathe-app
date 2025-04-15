@@ -15,10 +15,10 @@
 <details>
   <summary>Table of Contents</summary>
   <ol>
-    <li><a href="#about-the-project">About</a></li>
-    <li><a href="#built-with">Tech Stack</a></li>
+    <li><a href="#about">About</a></li>
+    <li><a href="#tech-stack">Tech Stack</a></li>
     <li><a href="#getting-started">Getting Started</a></li>
-    <li><a href="#getting-started">Take a Breath</a></li>
+    <li><a href="#take-a-breath">Take a Breath</a></li>
   </ol>
 </details>
 
