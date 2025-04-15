@@ -36,7 +36,7 @@ Coming soon...
 <!-- TECH STACK -->
 ## Tech Stack
 
-* [![React][React.js]][ReactNative-url]
+[![React Native][React.js]][ReactNative-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
