@@ -36,8 +36,7 @@ Coming soon...
 <!-- TECH STACK -->
 ## Tech Stack
 
-* [![React][React.js]][React-url]
-* [![ReactNative][ReactNative.js]][React-url]
+* [![React][React.js]][ReactNative-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -84,5 +83,5 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[ReactNative.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+[React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [ReactNative-url]: https://reactnative.dev/
