@@ -22,7 +22,7 @@
   </ol>
 </details>
 
-[![ABOUT][React.js]][AboutUrl]
+[![ABOUT][ButtonImg]][AboutUrl]
 
 
 <!-- ABOUT THE PROJECT -->
@@ -86,5 +86,5 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [ReactNative-url]: https://reactnative.dev/
-[ButtonImg]: https://miro.medium.com/v2/resize:fit:4262/format:webp/1*chuZPstTXb9euQ_AMXQvjA.png
+[ButtonImg]: https://harderco.com/wp-content/uploads/2016/07/Teal-Rectangle.png
 [AboutUrl]: #about
