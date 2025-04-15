@@ -12,17 +12,15 @@
     <p align="center">A simple breathwork app built with React Native</p>
 </div>
 
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li><a href="#about">About</a></li>
-    <li><a href="#tech-stack">Tech Stack</a></li>
-    <li><a href="#getting-started">Getting Started</a></li>
-    <li><a href="#take-a-breath">Take a Breath</a></li>
-  </ol>
-</details>
 
-[<img src="https://harderco.com/wp-content/uploads/2016/07/Teal-Rectangle.png" width="100">ABOUT</image>](#about)
+
+<!-- TABLE OF CONTENTS -->
+
+[About](#about)
+[Tech Stack](#tech-stack)
+[Get Started](#get-started)
+[Take a Breath](#take-a-breath)
+
 
 
 <!-- ABOUT THE PROJECT -->
@@ -44,7 +42,7 @@ Coming soon...
 
 
 <!-- GETTING STARTED -->
-## Getting Started
+## Get Started
 
 _Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
 
@@ -86,5 +84,3 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [ReactNative-url]: https://reactnative.dev/
-[ButtonImg]: https://harderco.com/wp-content/uploads/2016/07/Teal-Rectangle.png
-[AboutUrl]: #about
